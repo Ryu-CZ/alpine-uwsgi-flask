@@ -1,5 +1,6 @@
 
 .git
+.gitmodules
 .DS_Store
 .gitignore
 .dockerignore
